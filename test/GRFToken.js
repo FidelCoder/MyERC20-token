@@ -1,4 +1,4 @@
-const GRFToken = artifact.require('GRFToken')
+const GRFToken = artifact.require('GRFToken.sol')
 
 contract('GRFToken', (accounts) => {
     before(async () =>{
